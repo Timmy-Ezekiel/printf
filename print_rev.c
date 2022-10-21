@@ -1,4 +1,4 @@
-#include "timmy.h"
+#include "main.h"
 
 /**
  * print_rev - writes the str in reverse

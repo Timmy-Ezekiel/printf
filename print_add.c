@@ -1,4 +1,4 @@
-#include "timmy.h"
+#include "main.h"
 #include <stdio.h>
 /**
  * print_add - prints the address of an input variable

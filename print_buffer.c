@@ -1,4 +1,4 @@
-#include "timmy.h"
+#include "main.h"
 
 /**
  * print_buf - prints buffer
